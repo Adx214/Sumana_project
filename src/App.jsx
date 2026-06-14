@@ -1,7 +1,7 @@
 import React from 'react'
 import Super from './Pages/Super'
 import { BrowserRouter as Router,Routes,Route } from 'react-router-dom'
-import Not_found from './Pages/not_found'
+import Not_found from './Pages/Not_found'
 import Dashboard from './Dashboard/Dashboard'
 import Login from './Dashboard/Login'
 import API from './Pages/API'

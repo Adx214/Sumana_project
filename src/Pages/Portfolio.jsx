@@ -43,7 +43,7 @@ const Portfolio = () => {
               src={img.url}
               alt={`portfolio-${img.id}`}
               className="w-full h-auto object-cover rounded-lg"
-              loading="lazy"
+              
             />
           </div>
         ))}
